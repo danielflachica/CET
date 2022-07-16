@@ -14,10 +14,10 @@
         <div class="container mx-auto py-4 d-flex flex-column">
             <h1 class="mb-4">Expense Tracker</h1>
             <div class="row">
-                <div class="col-6-lg">
+                <div class="col-lg-3">
                     <script type="text/javascript" src="https://c2acw858.caspio.com/dp/51a4b0006fcbc8cb1d054f6bbe63/emb"></script>
                 </div>
-                <div class="col-6-lg">
+                <div class="col-lg-9">
                     <script type="text/javascript" src="https://c2acw858.caspio.com/dp/51a4b000c1e125b2a2564613a3ab/emb"></script>
                 </div>
             </div>
